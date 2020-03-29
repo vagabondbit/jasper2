@@ -2,13 +2,14 @@
 layout: post
 current: post
 cover: assets/images/bus.jpg
-navigation: True
+navigation: true
 title: Gettysburg Address
-date: 1863-11-19 10:18:00
-tags:
+date: {}
+tags: null
 class: post-template
-subclass: 'post'
+subclass: post
 author: abraham
+published: false
 ---
 
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
