@@ -12,7 +12,7 @@ class: post-template
 subclass: post tag-travel
 author: ghost
 ---
-## Breathtaking Iceland
+## 
 
 Iceland is one of my favorite travel memories. It's a place filled with nature and amazing landscape + a sight of the northern lights if you're lucky. 
 
