@@ -2,7 +2,7 @@
 published: true
 layout: post
 current: post
-cover: assets/images/brownies.jpg
+cover: assets/images/iceland.jpg
 navigation: true
 title: Breathtaking Iceland 
 date: 2020-05-02 T04:00:00.000Z
